@@ -1,2 +1,2 @@
-# car-racer-live
-an interesting car racer game
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
